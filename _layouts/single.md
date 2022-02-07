@@ -13,3 +13,4 @@ layout: default
   </ul>
 </nav>
   
+{{ content }}
